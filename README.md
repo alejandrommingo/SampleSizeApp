@@ -22,7 +22,7 @@ Esta aplicación Shiny proporciona una herramienta interactiva para calcular el 
 - Si selecciona "Comparar proporciones", deberá ingresar las proporciones esperadas para dos grupos y los parámetros de significación y potencia estadística. Después de ingresar estos datos, la aplicación calculará el tamaño de muestra necesario.
 
 ## Acceso a la Aplicación
-La aplicación puede ser accesada a través del siguiente enlace: [Calculadora de Tamaño de Muestra](https://alexmrtnz.shinyapps.io/SampleSizeApp/).
+La aplicación puede ser utilizada de forma gratuita a través del siguiente enlace: [Calculadora de Tamaño de Muestra](https://alexmrtnz.shinyapps.io/SampleSizeApp/).
 
 ## Contacto y Contribuciones
 Si tiene preguntas, comentarios o desea contribuir al desarrollo de esta aplicación, no dude en contactarme o abrir un issue en este repositorio.
