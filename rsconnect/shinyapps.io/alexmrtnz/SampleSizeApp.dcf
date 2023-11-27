@@ -1,0 +1,13 @@
+name: SampleSizeApp
+title: SampleSizeApp
+username:
+account: alexmrtnz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8805883
+bundleId: 7975140
+url: https://alexmrtnz.shinyapps.io/SampleSizeApp/
+when: 1701106248.9279
+lastSyncTime: 1701106248.92794
+asMultiple: FALSE
+asStatic: FALSE
