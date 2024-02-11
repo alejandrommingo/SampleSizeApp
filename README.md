@@ -26,3 +26,7 @@ La aplicación puede ser utilizada de forma gratuita a través del siguiente enl
 
 ## Contacto y Contribuciones
 Si tiene preguntas, comentarios o desea contribuir al desarrollo de esta aplicación, no dude en contactarme o abrir un issue en este repositorio.
+
+Si utiliza esta aplicación de Shiny en su investigación, por favor cítela como:
+Martínez-Mingo, A. (2023). Calculadora del Tamaño de la Muestra (Versión 1.0.1) [Computer software]. https://github.com/alejandrommingo/SampleSizeApp 
+
