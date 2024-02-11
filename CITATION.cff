@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Si utiliza esta aplicación de Shiny en su investigación, por favor cítela como:"
+title: "Calculadora del Tamaño de la Muestra"
+version: 1.0.1
+date-released: 2023-11-10
+authors:
+  - family-names: "Martínez-Mingo"
+    given-names: "Alejandro"
+repository-code: "https://github.com/alejandrommingo/SampleSizeApp"
