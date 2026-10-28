@@ -28,5 +28,8 @@ La aplicación puede ser utilizada de forma gratuita a través del siguiente enl
 Si tiene preguntas, comentarios o desea contribuir al desarrollo de esta aplicación, no dude en contactarme o abrir un issue en este repositorio.
 
 Si utiliza esta aplicación de Shiny en su investigación, por favor cítela como:
-Martínez-Mingo, A. (2023). Calculadora del Tamaño de la Muestra (Versión 1.0.1) [Computer software]. https://github.com/alejandrommingo/SampleSizeApp 
+Martínez-Mingo, A. (2023). Calculadora del Tamaño de la Muestra (Versión 1.0.1) [Computer software]. https://github.com/alejandrommingo/SampleSizeApp
 
+## Contexto académico
+
+Esta herramienta forma parte de mi trabajo en metodología cuantitativa y recursos para investigación y docencia. [Docencia y guías oficiales de la UNED](https://alejandrommingo.github.io/docencia/) · [Web académica](https://alejandrommingo.github.io/).
